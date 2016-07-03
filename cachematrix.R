@@ -7,14 +7,17 @@
 ## first matrix to be used
 ## copy this a$set to the console then run the specific instructions to see results.
 ## (1) a$set(matrix(c(1,2,3,0,1,4,5,6,0),nrow=3,ncol=3,byrow=TRUE) )
-## Assign a$get to x:   x<-a$get()
+
+        
 
 
 #1
 ## second matrix to be used
 ## copy this a$set to the console then run the specific instructions to see results.
 ## (2) a$set(matrix(c(7,2,1,0,3,-1,-3,4,-2),nrow=3,ncol=3,byrow=TRUE) )
-## Assign a$get to x:   x<-a$get()
+
+
+        ##1.1 Assign a$get to x:   x<-a$get()
 
 #2 
 #Use  (1)a$getinverse()  or  (2)a$getinverse().  You will obtain NULL, because inverse has not been obtained yet.
