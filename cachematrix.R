@@ -17,7 +17,7 @@
 ## (2) a$set(matrix(c(7,2,1,0,3,-1,-3,4,-2),nrow=3,ncol=3,byrow=TRUE) )
 
 
-        ##1.1 Assign a$get to x:   x<-a$get()
+        ##1.1 Assign a$get to x:  (1) x<-a$get() or (2) x<-a$get()
 
 #2 
 #Use  (1)a$getinverse()  or  (2)a$getinverse().  You will obtain NULL, because inverse has not been obtained yet.
